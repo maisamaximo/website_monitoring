@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to website monitoring 🔎</h1>
 <p>
-  <a href="https://www.npmjs.com/package/website monitoring" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/website monitoring.svg">
-  </a>
   <a href="https://twitter.com/maisamaximo_" target="_blank">
     <img alt="Twitter: maisamaximo_" src="https://img.shields.io/twitter/follow/maisamaximo_.svg?style=social" />
   </a>
