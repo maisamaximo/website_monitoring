@@ -13,7 +13,7 @@ The purpose of the application is to check if the sites pre-defined in the sites
 
 The system records logs with time, date and monitoring status.
 
-Menu: 
+
 ![alt text](menu.png "Menu")
 
 
